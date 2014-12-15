@@ -1,2 +1,7 @@
+username: clarlespeng
 baseurl: /testjs
 encoding: UTF-8
+markdown: redcarpet
+safe: false
+pygments: true
+title: 反反复复反反复复
