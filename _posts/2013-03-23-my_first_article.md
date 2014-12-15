@@ -3,7 +3,7 @@ layout: default
 title: 我的第一篇文章
 ---
  
-
+# {{ page.title }}
  
 ## 目录
 + [第一部分](#partI)
@@ -25,4 +25,4 @@ title: 我的第一篇文章
 ## 第三部分 <p id="partIII"></p>
 这里是第三部分的内容
  
-
+{{ page.date|date_to_string }}
