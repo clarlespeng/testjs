@@ -1,6 +1,5 @@
 username: clarlespeng
 baseurl: /testjs
-encoding: UTF-8
 markdown: redcarpet
 safe: false
 pygments: true
